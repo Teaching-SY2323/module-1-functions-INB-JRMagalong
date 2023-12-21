@@ -16,7 +16,7 @@ int main()
 
     cout << "The sum of 2 values = ";
 
-    cout << Add2Values(x, y)
+    cout << Add2Values(x, y);
 
     return 0;
 }
